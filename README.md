@@ -6,6 +6,19 @@ This app is based on microservices architecture. The backend is developed in Spr
 
 ### Backend
 - Spring Boot
+- Json Web Token for user authentication and authorization
+ #### steps
+ - For making a maven file browse to the spring initializer (https://start.spring.io/) .
+ - Then choose maven and give artifact name and package name.
+ - After that go to the dependency section and choose the required dependencies.
+ - The dependencies are
+      - spring web
+      - spring data JPA
+      - springboot dev tools
+      - MYSQL driver
+      - lombok
+      - Eureka discovery client
+   
 
 ### Frontend
 - React
