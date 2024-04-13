@@ -22,5 +22,9 @@ This app is based on microservices architecture. The backend is developed in Spr
     - TASK-SERVICE
     - SUBMISSION-SERVICE
     - GATEWAY-SERVICE.
+   
+### Microservices Architecture
+![Architecture](https://i.ibb.co/Xk8rH0P/MICROS.png)
+
 
 
