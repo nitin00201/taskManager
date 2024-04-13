@@ -1,6 +1,6 @@
 # Task Manager
 
-This app is based on microservices architecture. The backend is developed in Spring Boot, and the frontend is developed in React.
+This app is based on  microservices architecture. The backend is developed in  Spring Boot, and the frontend is developed in React.
 
 ## Technology Used
 
