@@ -25,7 +25,22 @@ This app is based on microservices architecture. The backend is developed in Spr
 - Redux
 - Material UI
 - Tailwind CSS
-  
+
+#### steps
+
+1. Go to the frontend directory:
+   ```sh
+   cd frontend
+2. In the frontend directory, install npm packages:
+
+   ```sh
+   npm install
+3. In the frontend directory, run the command to run the application :
+
+   ```sh
+   npm run dev
+4. Now the app is ported on "http://localhost:5173"
+
 ### Achitecture
 - Microservices Architecture
 
